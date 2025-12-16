@@ -7,14 +7,11 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="400" alt="Stats Card" />
-</div>
+---
 
-<div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" width="400" alt="Streak Stats" />
-</div>
+### :fire: My Stats :
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="150"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
